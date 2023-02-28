@@ -1,0 +1,17 @@
+body {
+  min-height: 2000px;
+}
+section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.Profile {
+  padding-top: 6rem;
+  padding-bottom: 2rem;
+  background-color: #e1e1e1;
+}
+
+.Projects {
+  background-color: #e1e1e1;
+}
